@@ -1,6 +1,6 @@
 {
   "name": "path-os",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "OS-specific extensions to Node's core path module.",
   "keywords": [
     "path",
